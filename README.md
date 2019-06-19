@@ -12,15 +12,16 @@ Code works as follows
 8) Renames all columns to be descriptive (below definitions)
 
 Data Taxonomy
-Time vs Frequency - Time_ and Freq_
-Body vs Gravity - Body_ and Gravity_
-Acceleration and Jerk - Accel_ and Jerk_
-Magnitude - Magnitude_
-Mean vs Stdev - Mean_ and Std
-X,Y,Z Positions - X and Y and Z
+1) Time vs Frequency - Time_ and Freq_
+2) Body vs Gravity - Body_ and Gravity_
+3) Acceleration and Jerk - Accel_ and Jerk_
+4) Magnitude - Magnitude_
+5) Mean vs Stdev - Mean_ and Std
+6) X,Y,Z Positions - X and Y and Z
 
 For example - Time_Body_Accel_Mean_X is the Time Body Acceleration Mean in the X direction
 
-Activity Description - Activity_Desc
-Subject ID - Subject
+In addition the following columns identify information
+1) Activity Description - Activity_Desc
+2) Subject ID - Subject
 
